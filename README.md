@@ -6,4 +6,4 @@ hello :wave: angularjs :ng:
 - http://sebaek.github.io/navi/
 - http://www.w3schools.com/angular/default.asp
 - http://jhipster.github.io
-
+- http://jasmine.github.io/1.3/introduction.html
