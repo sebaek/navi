@@ -7,3 +7,4 @@ hello :wave: angularjs :ng:
 - http://www.w3schools.com/angular/default.asp
 - http://jhipster.github.io
 - http://jasmine.github.io/1.3/introduction.html
+- https://docs.angularjs.org/tutorial/step_00
